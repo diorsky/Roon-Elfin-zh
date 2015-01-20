@@ -1,4 +1,5 @@
 Roon-Elfin-zh 是在 GhostChina 修改的官方主题 Roon-zh 基础上再做修改，主要针对中文用户。
+预览效果可以到<a title="shixing" href="http://www.shixing.me/" target="_blank">我的博客</a>
 
 官方新出的主题 <a title="Roon" href="https://github.com/TryGhost/Roon" target="_blank">Roon</a> 还是比较清爽简单的。我主要修改了以下几个地方：
 
