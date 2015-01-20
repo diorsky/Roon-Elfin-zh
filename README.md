@@ -32,3 +32,7 @@ Roon-Elfin-zh 是在 GhostChina 修改的官方主题 Roon-zh 基础上再做修
 	// For Centos:
 	sudo yum install git
 ```
+
+TODO
+
+* 针对移动设备做适配
